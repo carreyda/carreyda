@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/carrey493/carrey493/blob/main/welcome.svg" alt="Anurag's GitHub stats" /> </p>
+
 ### Hi there 👋
 
 **carrey493/carrey493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +25,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtroxEzerel)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AtroxEzerel" alt="Anurag's GitHub stats" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=carrey493" alt="Anurag's GitHub stats" /> </p>
 
 <!---
 AtroxEzerel/AtroxEzerel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,13 +36,13 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AtroxEzerel&layout=compact)
 --->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtroxEzerel&layout=compact" alt="Anurag's GitHub stats" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrey493&layout=compact" alt="Anurag's GitHub stats" /> </p>
 
 <!---
 ![Anurag's GitHub stats](https://github-contribution-stats.vercel.app/api/?username=AtroxEzerel)
 --->
 
-<p align="center"><img src="https://github-contribution-stats.vercel.app/api/?username=AtroxEzerel" alt="Anurag's GitHub stats" /> </p>
+<p align="center"><img src="https://github-contribution-stats.vercel.app/api/?username=carrey493" alt="Anurag's GitHub stats" /> </p>
 
 2024 Goal
 **Love**
