@@ -1,63 +1,34 @@
-<p align="center"><img src="https://github.com/carrey493/carrey493/blob/main/welcome.svg" alt="Anurag's GitHub stats" /> </p>
+<p align="center"><img src="https://github.com/carrey493/carrey493/blob/main/welcome.svg" alt="Welcome" /> </p>
 
-### Hi there 👋
+👋 Hi, I’m  [**Carrey**](https://github.com/carrey493).Welcome to my profile!
 
-**carrey493/carrey493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🚀 About me**
 
-Here are some ideas to get you started:
+- 👀 I’m engaged in work related to web front-end.
+- 🌱 I’m currently learning Html&Css&JavaScript&Vue&React&Node&WebVisualization and using them building front-end applications.
+- 💞️ I’m interested in programming, gaming, and reading
+- 💌 Reach me at https://github.com/carrey493 or artox493@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <img width=300 height=150 src="https://github-readme-stats.vercel.app/api?username=carrey493" alt="Anurag's GitHub stats" />
+  <img width=300 height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrey493&layout=compact" alt="Anurag's GitHub stats" />
+  <img height=150 src="https://github-contribution-stats.vercel.app/api/?username=carrey493" alt="Anurag's GitHub stats" />
+</p>
 
-- 👋 Hi, I’m @AtroxEzerel
-- 👀 I’m interested in web front
-- 🌱 I’m currently learning Html&Css&JavaScript&Vue
-- 💞️ I’m looking to collaborate on https://atroxezerel.github.io/blogs/
-- 📫 Reach me at https://github.com/AtroxEzerel
+**✨ I am good at**
 
-<!---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtroxEzerel)](https://github.com/anuraghazra/github-readme-stats)
---->
+<p>
+  <img width=20 height=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img width=20 height=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+  <img width=20 height=20 src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png" />
+  <img width=20 height=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img width=20 height=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=carrey493" alt="Anurag's GitHub stats" /> </p>
+**📫 Products**
 
-<!---
-AtroxEzerel/AtroxEzerel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+These are the products or projects that I participated in designing and developing...
 
-<!---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AtroxEzerel&layout=compact)
---->
+**💫 Reach me**
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrey493&layout=compact" alt="Anurag's GitHub stats" /> </p>
-
-<!---
-![Anurag's GitHub stats](https://github-contribution-stats.vercel.app/api/?username=AtroxEzerel)
---->
-
-<p align="center"><img src="https://github-contribution-stats.vercel.app/api/?username=carrey493" alt="Anurag's GitHub stats" /> </p>
-
-2024 Goal
-**Love**
-- [] Successfully completed the engagement ceremony
-- [] The relationship with my girlfriend has gone further and their relationship is getting better and better
-
-**Life**
-- [] My family and I are in good health
-- [] Weight controlled at around 75kg
-
-**Work**
-- [] I can get more exercise and improvement in the company
-- [] I hope to join Tencent and work for them
-
-**Study**
-- [] Complete the corresponding content on time according to the learning plan and gain more knowledge
-- [] Pay more attention and learn about game development related content
-
+These are my other social media accounts. If you need them, you can contact me.
