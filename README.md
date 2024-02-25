@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/carrey493/carrey493/blob/main/welcome.svg" alt="Welcome" /> </p>
 
-👋 Hi, I’m  [**Carrey**](https://github.com/carrey493).Welcome to my profile!
+👋 Hi, I’m  [**Carrey**](https://github.com/carrey493). Welcome to my profile!
 
 **🚀 About me**
 
