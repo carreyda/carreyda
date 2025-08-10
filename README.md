@@ -12,7 +12,6 @@
 <p align="center">
   <img width=300 height=150 src="https://github-readme-stats.vercel.app/api?username=carrey493" alt="Anurag's GitHub stats" />
   <img width=300 height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrey493&layout=compact" alt="Anurag's GitHub stats" />
-  <img height=150 src="https://github-contribution-stats.vercel.app/api/?username=carrey493" alt="Anurag's GitHub stats" />
 </p>
 
 **✨ I am good at**
@@ -38,3 +37,5 @@ These are the products or projects that I participated in designing and developi
 **💫 Reach me**
 
 These are my other social media accounts. If you need them, you can contact me.
+
+atrox493@gmail.com
