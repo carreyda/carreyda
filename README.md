@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/carrey493/carrey493/blob/main/welcome.svg" alt="Welcome" /> </p>
 
-👋 Hi, I’m  [**Carrey**](https://github.com/carrey493). Welcome to my profile!
+👋 Hi, I’m [**Carrey**](https://github.com/carrey493). Welcome to my profile!
 
 **🚀 About me**
 
@@ -39,3 +39,5 @@ These are the products or projects that I participated in designing and developi
 These are my other social media accounts. If you need them, you can contact me.
 
 atrox493@gmail.com
+
+<p align="center"><img src="./satellite.gif" alt="satellite" /> </p>
