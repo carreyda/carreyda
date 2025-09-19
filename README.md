@@ -1,13 +1,13 @@
 <p align="center"><img src="https://github.com/carrey493/carrey493/blob/main/welcome.svg" alt="Welcome" /> </p>
 
-👋 Hi, I’m [**Carrey**](https://github.com/carrey493). Welcome to my profile!
+👋 Hi, I’m [**Carreyda**](https://github.com/carreyda). Welcome to my profile!
 
 **🚀 About me**
 
 - 👀 I’m engaged in work related to web front-end.
 - 🌱 I’m currently learning Html&Css&JavaScript&Vue&React&Node&WebVisualization and using them building front-end applications.
 - 💞️ I’m interested in programming, gaming, and reading
-- 💌 Reach me at https://github.com/carrey493 or artox493@gmail.com
+- 💌 Reach me at https://github.com/carreyda or artox493@gmail.com
 
 <p align="center">
   <img width=300 height=150 src="https://github-readme-stats.vercel.app/api?username=carrey493" alt="Anurag's GitHub stats" />
