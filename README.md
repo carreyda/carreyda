@@ -10,8 +10,8 @@
 - 💌 Reach me at https://github.com/carreyda or artox493@gmail.com
 
 <p align="center">
-  <img width=300 height=150 src="https://github-readme-stats.vercel.app/api?username=carrey493" alt="Anurag's GitHub stats" />
-  <img width=300 height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrey493&layout=compact" alt="Anurag's GitHub stats" />
+  <img width=300 height=150 src="https://github-readme-stats.vercel.app/api?username=carreyda" alt="Anurag's GitHub stats" />
+  <img width=300 height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=carreyda&layout=compact" alt="Anurag's GitHub stats" />
 </p>
 
 **✨ I am good at**
